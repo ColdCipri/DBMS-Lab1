@@ -1,0 +1,10 @@
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\obj\Debug\DBMS Lab1.csprojAssemblyReference.cache
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\obj\Debug\DBMS_Lab1.Properties.Resources.resources
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\obj\Debug\DBMS Lab1.csproj.GenerateResource.cache
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\obj\Debug\DBMS Lab1.csproj.CoreCompileInputs.cache
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\bin\Debug\DBMS Lab1.exe.config
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\bin\Debug\DBMS Lab1.exe
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\bin\Debug\DBMS Lab1.pdb
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\obj\Debug\DBMS Lab1.exe
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\obj\Debug\DBMS Lab1.pdb
+C:\Users\Cipri\source\repos\DBMS Lab1\DBMS Lab1\obj\Debug\DBMS_Lab1.Form1.resources
